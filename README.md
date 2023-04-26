@@ -14,3 +14,4 @@ Contents:
 10- Push button module
 11- Seven segement module
 12- Common files for each module
+each module These modules is easily configurable by editing the configurations in the header files
